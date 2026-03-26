@@ -16,7 +16,13 @@ I'm a **Software Engineer** and **Cybersecurity Enthusiast** who enjoys building
 
 I spend a lot of my free time in the world of Capture The Flag (CTF) challenges. I have a particular fascination with **cryptography** and technical analysis. 
 
-* **TryHackMe:** I'm actively grinding through paths to sharpen my offensive and defensive skills.
+**TryHackMe:** I'm actively grinding through paths to sharpen my offensive and defensive skills.
+
+<div>
+  <a href="https://tryhackme.com/p/yeiazel">
+    <img src="./assets/badge.png" alt="TryHackMe Badge">
+  </a>
+</div>
 
 ---
 
