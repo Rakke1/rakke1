@@ -20,7 +20,7 @@ I spend a lot of my free time in the world of Capture The Flag (CTF) challenges.
 
 <div>
   <a href="https://tryhackme.com/p/yeiazel">
-    <img src="./assets/badge.png" alt="TryHackMe Badge">
+    <img src="./assets/badge.png" alt="TryHackMe Badge" style="border-radius: 12px;">
   </a>
 </div>
 
