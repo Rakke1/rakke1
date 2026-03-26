@@ -18,8 +18,6 @@ I spend a lot of my free time in the world of Capture The Flag (CTF) challenges.
 
 * **TryHackMe:** I'm actively grinding through paths to sharpen my offensive and defensive skills.
 
-[![yeiazel's tryhackme stats](https://raw.githubusercontent.com/Rakke1/rakke1/master/assets/thm_propic.png)[tryhackme]
-
 ---
 
 ### 🎮 Beyond the Terminal
