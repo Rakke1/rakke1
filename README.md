@@ -30,8 +30,7 @@ I spend a lot of my free time in the world of Capture The Flag (CTF) challenges.
 
 Life isn't just about `0`s and `1`s. When I'm offline, I'm usually:
 * 🎸 Playing guitar (usually in Drop D).
-* 🍳 Experimenting with seafood recipes (Salmon soup is a specialty).
-* 🎮 Clearing floors in *The Binding of Isaac* or trying not to tilt in *Cuphead*.
+* 🎮 Clearing floors in *The Binding of Isaac* or trying not to tilt in *Hollow Knight*.
 
 ---
 
