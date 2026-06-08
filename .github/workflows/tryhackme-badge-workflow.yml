@@ -2,7 +2,7 @@ name: Update TryHackMe Stats
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '03 01 * * *'
   workflow_dispatch:
 
 jobs:
